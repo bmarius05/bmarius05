@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Marius 👋
 
-<!--
-**bmarius05/bmarius05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Passionate about low-level programming  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+•	Programming Languages: Java, C, C++, Assembly
+•	Web Development: HTML, CSS, React, Node.js
+•	Databases: SQL, MySQL
+•	Version Control: Git
+•	Problem Solving: Algorithm design, debugging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Interests
+- Embedded systems
+- Performance optimization
+- Systems programming
+- Cybersecurity
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/bmarius05/
+- Email: blagamarius05@gmail.com
