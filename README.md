@@ -20,3 +20,7 @@
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/bmarius05/
 - Email: blagamarius05@gmail.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bmarius05&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmarius05&layout=compact)
